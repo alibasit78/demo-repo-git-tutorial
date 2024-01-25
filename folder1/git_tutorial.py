@@ -5,4 +5,9 @@ def add_numbers(a,b):
 #1. improve the perfomance of add_numbers
 #2. add the doc string
 def calc_diff(a,b):
+<<<<<<< HEAD
     return abs(a - b)
+=======
+    """subtract b from a"""
+    return a - b
+>>>>>>> 61660ec2821ef5354938169fda078416670b71e0

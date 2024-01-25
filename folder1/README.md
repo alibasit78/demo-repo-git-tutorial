@@ -7,3 +7,5 @@ Learning about commit
 Hi adding this line for stash
 
 hey adding new line for learning github
+
+adding line from the github ui

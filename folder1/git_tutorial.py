@@ -6,3 +6,10 @@ def add_numbers(a,b):
 #2. add the doc string
 def calc_diff(a,b):
     return abs(a - b)
+
+#factorial function to compute n!
+def fact(n):
+    f = 1
+    for i in range(1,n+1):
+        f = f * i
+    return f
